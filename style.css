@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'whoismono';
+    src: url('fonts/whois-mono.eot');
+    src: url('fonts/whois-mono.eot?#iefix') format('embedded-opentype'),
+         url('fonts/whois-mono.woff') format('woff'),
+         url('fonts/whois-mono.ttf') format('truetype'),
+         url('fonts/whois-mono.svg#whoismono') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+	font-family: 'whoismono',"Courier", monospace;
+}
